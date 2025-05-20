@@ -1,7 +1,11 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# 我的 Jupyter Book
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+欢迎来到我的 Jupyter Book！
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+本页面内容已由 mynewbook 生成。请点击下方链接访问完整的电子书：
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+[点击这里查看我的电子书](mynewbook/_build/html/intro.html)
+
+---
+
+你也可以直接在本仓库的 mynewbook 目录下查看源文件。
